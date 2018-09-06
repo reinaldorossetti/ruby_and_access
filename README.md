@@ -12,4 +12,4 @@ https://www.microsoft.com/en-us/download/details.aspx?id=13255
 https://www.microsoft.com/en-us/download/details.aspx?id=54920  
 
 2. Instalar a Gem win32ole.
-3. Configurar o script com o nome do banco de dados e versão do ODBC correto.
+3. Configurar o script com o nome do banco de dados e a versão do ODBC correto.
