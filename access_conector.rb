@@ -1,6 +1,6 @@
 require 'win32ole'
 
-mdb_file = __dir__ + '\\db\\clarorpa.accdb'
+mdb_file = __dir__ + '\\db\\exemplo.accdb'
 
 class AccessDb
   attr_accessor :mdb, :connection, :data, :fields, :catalog
